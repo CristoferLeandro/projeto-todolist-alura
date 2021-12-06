@@ -109,6 +109,11 @@ body {
   background: rgba(246, 241, 209, 0.1);
 }
 
+.content-data{
+  color: #F6F1D1;
+  padding: 1rem 3rem;
+}
+
 .list {
   padding: 0;
   list-style: none;
